@@ -1,0 +1,23 @@
+{
+  "name": "skills-write-javascript-actions",
+  "version": "1.0.0",
+  "description": "<img src=\"https://octodex.github.com/images/Professortocat_v2.png\" align=\"right\" height=\"200px\" />",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-study:sorokakateryna-source/skills-write-javascript-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@actions/core": "^3.0.1",
+    "@vercel/ncc": "^0.45.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
